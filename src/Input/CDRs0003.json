@@ -1,0 +1,21 @@
+[
+    {
+    "ANUM": "006596312796",
+    "BNUM": "+6596312700",
+    "ServiceType": "1",
+    "CallCategory": "2",
+    "SubscriberType": "2",
+    "StartDatetime": "20210804010500",
+    "UsedAmount": "70"
+    },
+    {
+    "ANUM": "006596662794",
+    "BNUM": [],
+    "ServiceType": "3",
+    "CallCategory": "2",
+    "SubscriberType": "1",
+    "StartDatetime": "20210808141050",
+    "UsedAmount": "8800"
+    }
+   ]
+   
